@@ -85,14 +85,3 @@ Deduplicadas: [hola, mundo, taco]
 
 Antes tope: {a=3, b=2, c=1}
 Después tope: {a=2, b=2, c=1}
-
-## Consideraciones
-
-El programa maneja correctamente casos especiales como listas vacías y valores nulos.
-Las operaciones que lo requieren modifican las estructuras de datos directamente, mientras que otras generan nuevas colecciones sin alterar las originales.
-Se siguen las convenciones de Java para nombres y organización del código.
-
-## Repositorio
-
-Este proyecto debe subirse a un repositorio público de GitHub con un nombre descriptivo.
-Asegúrate de incluir todos los archivos fuente y este README correctamente formateado.
